@@ -12,7 +12,7 @@ This project enables the ESP8266 board to operate as follows:
 1. **Download the source code:**
 
 2. **Code Configuration:**
-   - Open the `config.h` file and modify the parameters according to your needs (IP address, SSID, password, etc.).
+   - To modify the parameters according to your needs to modify IPAddress.
 
 3. **Upload the code to the ESP8266 board:**
    - Use the Arduino IDE or a similar tool to upload the code to the ESP8266 board.
